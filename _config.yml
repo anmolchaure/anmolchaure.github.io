@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Anmol
+title: Anmol's Personal blog
 email: anmol.chaure@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Earth system science
@@ -58,13 +58,13 @@ plugins:
 author:
   name   : "Anmol"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Graduate student in Data Science interested in Earth system sciences"
+  bio    : "Graduate student in Data Science and Environmental Modelling"
   links:
-   # - label: "Website"
-    #  icon: "fas fa-fw fa-link"
-    #  url: "https://"
+    - label: "ReseachGate"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.researchgate.net/profile/Anmol-Chaure?ev=hdr_xprf"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-twitter-square"
+      #icon: "fab fa-fw fa--square"
       url: "https://www.linkedin.com/in/anmol-chaure/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
